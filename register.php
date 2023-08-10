@@ -19,7 +19,7 @@
             <input type="password" name="password" placeholder="enter password" class="box" required>
             <input type="password" name="cpassword" placeholder="confrim password" class="box" required>
             <input type="file" class="box" accept="image/jpg, image/jpeg, image/png">
-            <input type="submit" value="register now" class="btn">
+            <input type="submit" value="Register now" class="btn">
             <p>already have an account? <a href="login.php">login now</a></p>
         </form>
 
